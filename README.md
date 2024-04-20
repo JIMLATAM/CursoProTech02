@@ -1,2 +1,2 @@
 # CursoProTech02
-Curso de programación Tech  mamnejo de GIT
+## Curso de programación Tech  mamnejo de GIT
