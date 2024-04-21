@@ -95,7 +95,7 @@ Uso de biñetas
 ## Imágenes
 
 <p align="center">
-<img src="imagen.png" height="100">
+<img src="/logos/logo..jpeg" height="100">
 </p>
 
 
